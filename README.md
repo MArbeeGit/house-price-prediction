@@ -19,8 +19,6 @@ house-price-prediction/
 ├── notebooks/                 # Jupyter notebooks for EDA and model training
 │   ├── eda.ipynb              # Exploratory Data Analysis (EDA)
 │   └── model_training.ipynb   # Model training notebook
-├── src/                       # Python scripts for preprocessing and model training
-│   └── model_training.py      # Script to train and save the model (optional)
 ├── app.py                     # Streamlit app script for making predictions
 ├── model.pkl                  # Trained machine learning model
 ├── feature_names.txt          # Feature names used during training
